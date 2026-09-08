@@ -8,7 +8,7 @@ The dashboard analyzes pizza sales performance, customer ordering patterns, prod
 
 ## 🎯 Business Objectives
 
-The analysis aims to answer key business questions such as:
+The analysis aims to answer key business questions such as :
 
 * What are the overall sales and order performance?
 * Which pizza categories and products generate the most sales?
