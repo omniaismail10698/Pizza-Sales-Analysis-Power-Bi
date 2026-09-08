@@ -57,7 +57,13 @@ Analysis of order volume and the number of pizzas purchased per transaction.
 
 ## 📸 Dashboard Preview
 
-![Pizza Sales Dashboard](linkedin_cover_full_dashboard.png)
+![Main Dashboard](Main%20dashboard.png)
+
+![Sales Analysis](Sales%20analysis.png)
+
+![Product Analysis](Product%20analysis.png)
+
+![Time Analysis](Time%20analysis.png)
 
 ## 📂 Project Files
 
